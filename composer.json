@@ -1,0 +1,20 @@
+{
+    "name": "larakit/sf-momentjs",
+    "description": "[Larakit][lk-staticfiles] sf-momentjs",
+    "license": "MIT",
+    "version": "4.0.3",
+    "authors": [
+        {
+            "name": "Alexey Berdnikov",
+            "email": "aberdnikov@gmail.com"
+        }
+    ],    
+    "require": {
+        "larakit/lk-staticfiles": "*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
